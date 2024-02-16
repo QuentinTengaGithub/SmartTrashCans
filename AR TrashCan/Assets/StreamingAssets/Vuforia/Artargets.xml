@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="AllPath" size="0.930000 0.930000" />
+    <ImageTarget name="qr-code" size="0.070000 0.070000" />
+    <ImageTarget name="tournant2" size="0.310000 0.310000" />
+    <ImageTarget name="rondpoint5" size="0.310000 0.310000" />
+    <ImageTarget name="rondpoint4" size="0.310000 0.310000" />
+    <ImageTarget name="rondpoint3" size="0.310000 0.308288" />
+    <ImageTarget name="rondpoint2" size="0.310000 0.310000" />
+    <ImageTarget name="carrefour2" size="0.310000 0.309286" />
+    <ImageTarget name="RP" size="0.300000 0.302420" />
+    <ImageTarget name="Carrouf" size="0.300000 0.300000" />
+    <ImageTarget name="tournant" size="0.310000 0.310000" />
+  </Tracking>
+</QCARConfig>
